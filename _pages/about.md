@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Senior Research Scientist in Motion Planning and Prediction at [FiveAI]. My current research focus is Online Interactive Planning for Autonomous Vehicles. The methods that I am working on must also handle a large degree of uncertainty and limit the amount of risk given the safety critical nature of the application. Previously, I have completed a PhD within the [ILCC] institute of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Alex Lascarides] and [Subramanian Ramamoorthy].
+I am Lead Research Scientist in Motion Planning and Prediction Applied Research team at [FiveAI] where I am tackling a variety of research and engineering challenges, such as robustifying planners, multi-agent interactions, integrating prediction into planning, etc. I am exploring hybrid combinations of machine learning (deep learning, reinforcement learning with classical approaches such as Monte Carlo methods, Bayesian inference and Game Theory algorithms. The safety critical nature of the application means that any solutions need to handle a large degree of uncertainty, generalise to novel situations and constrain the amount of risk when interacting with other human traffic participants. Previously, I completed a PhD within the [ILCC] institute of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Alex Lascarides] and [Subramanian Ramamoorthy].
 
 ### Research interests
 
-- *Machine Learning*: Planning and Decision Making, Reinforcement Learning, Deep Neural
-Networks, Bayesian Methods
-- Quantifying and handling Uncertainty/Risk in Planning/Reinforcement Learning 
+- *Machine Learning*: (Multi-agent) Reinforcement Learning, Imitation Learning, Deep Learning, Bayesian Methods, Planning and Decision Making
 - Multi-agent Systems and Game Theory
+- Quantifying and handling Uncertainty/Risk in Planning/Reinforcement Learning
 
 ### Education
 - PhD Informatics. Low-resource learning in complex games, [School of Informatics], [University of Edinburgh],  2018
