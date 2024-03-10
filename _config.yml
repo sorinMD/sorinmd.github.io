@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mihai S. Dobre"
 title_separator          : "-"
 name                     : &name "Mihai S. Dobre"
-description              : &description "Senior Research Scientist at FiveAI"
+description              : &description "Lead Research Scientist at FiveAI"
 url                      : https://sorinMD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sorinMD.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Mihai S. Dobre"
   avatar           : "profile.png"
-  bio              : "Senior Research Scientist in Motion Planning and Prediction at FiveAI"
+  bio              : "Lead Research Scientist in Motion Planning and Prediction at FiveAI"
   location         : "Edinburgh, UK"
   employer         : "FiveAI"
   pubmed           :
