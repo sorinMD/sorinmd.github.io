@@ -8,13 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am Lead Research Scientist in Motion Planning and Prediction Applied Research team at [FiveAI] where I am tackling a variety of research and engineering challenges, such as robustifying planners, multi-agent interactions, integrating prediction into planning, etc. I am exploring hybrid combinations of machine learning (deep learning, reinforcement learning with classical approaches such as Monte Carlo methods, Bayesian inference and Game Theory algorithms. The safety critical nature of the application means that any solutions need to handle a large degree of uncertainty, generalise to novel situations and constrain the amount of risk when interacting with other human traffic participants. Previously, I completed a PhD within the [ILCC] institute of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Alex Lascarides] and [Subramanian Ramamoorthy].
+I am Lead Research Scientist in Motion Planning and Prediction Applied Research team at [FiveAI], now part of [Bosch], where I have been tackling a variety of research and engineering challenges, such as robustifying planners, multi-agent interactions, integrating prediction into planning, etc. I am exploring hybrid combinations of machine learning (deep learning, reinforcement learning with classical approaches such as Monte Carlo methods, Bayesian inference and Game Theory algorithms. The safety critical nature of the application means that any solutions need to handle a large degree of uncertainty, generalise to novel situations and constrain the amount of risk when interacting with other human traffic participants. Me and my team are positioned at the intersection of Engineering and Research forming a link between the Level 4 self-driving team, [Bosch Research] and academia.
+
+I have recently expanded my horizon to other parts of Autonomous Driving stack, in particular in Perception where we develop algorithms for HD Map Reconstruction from raw sensor data. Storing and keeping HD Maps updated is an expensive and non-trivial task despite the clear evidence of benefits for downstream tasks such as Planning and Perception. Utilising the recent advances in Machine Learning and Computer Vision, we are implementing solutions for both Online usage on the vehicle and for Autolabeling the large amounts of data gathered by the self-driving vehicles.
+
+Previously, I completed a PhD within the [ILCC] institute of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Alex Lascarides] and [Subramanian Ramamoorthy].
 
 ### Research interests
-
-- *Machine Learning*: (Multi-agent) Reinforcement Learning, Imitation Learning, Deep Learning, Bayesian Methods, Planning and Decision Making
+- *Machine Learning*: (Multi-agent) Reinforcement Learning, Imitation Learning, Deep Learning, Bayesian Methods
+- Prediction, Planning and Decision Making
+- Computer Vision (Perception in AD)
 - Multi-agent Systems and Game Theory
-- Quantifying and handling Uncertainty/Risk in Planning/Reinforcement Learning
 
 ### Education
 - PhD Informatics. Low-resource learning in complex games, [School of Informatics], [University of Edinburgh],  2018
@@ -38,3 +42,5 @@ I am Lead Research Scientist in Motion Planning and Prediction Applied Research 
 [Amazon Alexa Challenge 2017]: https://developer.amazon.com/alexaprize/challenges/past-challenges/2017
 [Edina]: https://developer.amazon.com/alexaprize/challenges/past-challenges/2017/edina
 [FiveAI]: https://five.ai/
+[Bosch]: https://www.bosch-mobility.com/en/
+[Bosch Research]: https://www.bosch.com/research/
