@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Mihai S. Dobre"
 title_separator          : "-"
 name                     : &name "Mihai S. Dobre"
-description              : &description "Lead Research Scientist at FiveAI"
+description              : &description "Entrepreneur in Residence at Antler"
 url                      : https://sorinMD.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sorinMD.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Mihai S. Dobre"
-  avatar           : "me3.jpeg"
+  avatar           : "me2.jpeg"
   bio              : "Entrepreneur in Residence at Antler"
   location         : "Edinburgh, UK"
   employer         : "Antler"
