@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Entrepreneur in Residence at [Antler](https://www.antler.co/) in the autumn cohort 2024, in London. I am exploring opportunities at the intersection of AI and healthcare. In particular, my co-founder and I are developing a solution for automating compliance for R&D teams such that they can focus on innovation. We are building an AI Regulatory Expert that can work side by side with the development team, automatically discover evidence, generate regulatory documentation and identify any compliance issues. Stay tuned for more updates on our progress! 
+I am building [Klaris](https://www.klaris.ai) to help MedTech companies accelerate innovation and save patients lives. At Klaris, we create bespoke AI agents to automate compliance workflows, removing unnecessary admin work while improving quality. This initiative stems from my time as an Entrepreneur in Residence at [Antler](https://www.antler.co/) in the autumn cohort 2024, in London, when I partnered up with Francesco Corazza to build the future of reulatory compliance for MedTech.
 
 Previously, I was Lead Research Scientist at [FiveAI]([Bosch]). I led the Motion Planning and Prediction Applied Research team in tackling a variety of research and engineering challenges, such as robustifying planners, multi-agent interactions, integrating prediction into planning, etc. I explored hybrid combinations of machine learning (deep learning, reinforcement learning) with classical approaches such as Monte Carlo methods, Bayesian inference and Game Theory algorithms. The safety critical nature of the application meant that the solutions had to handle a large degree of uncertainty, generalise to novel situations and constrain the amount of risk when interacting with other human traffic participants.
 
@@ -47,3 +47,5 @@ Before moving to industry, I completed a PhD within the [ILCC] institute of the 
 [Bosch]: https://www.bosch-mobility.com/en/
 [Bosch Research]: https://www.bosch.com/research/
 [Antler]: https://www.antler.co/
+[Klaris]: https://www.klaris.ai/
+[Francesco Corazza]: https://www.linkedin.com/in/francescocorazza
