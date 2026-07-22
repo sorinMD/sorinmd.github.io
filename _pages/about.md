@@ -8,19 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-I am building [Klaris](https://www.klaris.ai) to help MedTech companies accelerate innovation and save patients lives. At Klaris, we create bespoke AI agents to automate compliance workflows, removing unnecessary admin work while improving quality. This initiative stems from my time as an Entrepreneur in Residence at [Antler](https://www.antler.co/) in the autumn cohort 2024, in London, when I partnered with [Francesco Corazza](https://www.linkedin.com/in/francescocorazza) to build the future of reulatory compliance for MedTech.
+I am co-founder and CTO of [Klaris](https://www.klaris.ai/), where we build AI agents that help MedTech companies get through regulatory review faster and with fewer surprises. Regulatory frameworks for medical devices are, at their best, structured, logical, and clearly aimed at patient safety. In practice, manufacturers often get stuck proving consistency across hundreds of pages of technical documentation and checking whether every applicable requirement was addressed — work that crowds out the judgment calls that actually matter for safety. Klaris exists to take on that administrative burden so regulatory teams can spend their attention where it counts. As CTO I own the product and technical direction end to end, from the AI systems we ship to the team, processes and security posture behind them.
 
-Previously, I was Lead Research Scientist at [FiveAI]([Bosch]). I led the Motion Planning and Prediction Applied Research team in tackling a variety of research and engineering challenges, such as robustifying planners, multi-agent interactions, integrating prediction into planning, etc. I explored hybrid combinations of machine learning (deep learning, reinforcement learning) with classical approaches such as Monte Carlo methods, Bayesian inference and Game Theory algorithms. The safety critical nature of the application meant that the solutions had to handle a large degree of uncertainty, generalise to novel situations and constrain the amount of risk when interacting with other human traffic participants.
+What draws me to this problem personally is how neatly it sits at the intersection of two long-standing interests of mine: language, and multi-agent systems. Much of my earlier research was about agents that reason, interact and negotiate through language; autonomous driving later sharpened that into planning and prediction under uncertainty in a safety-critical world. MedTech regulation asks for a similar combination — careful reading of complex text, structured reasoning over requirements, and systems that must be trustworthy when the stakes are high.
 
-In my final year at Bosch, I expanded my interests to Perception where we developed algorithms for HD Map Reconstruction from raw sensor data. Storing and keeping HD Maps updated is an expensive and non-trivial task despite the clear evidence of benefits for downstream tasks such as Planning and Perception. Utilising the recent advances in Machine Learning and Computer Vision, we implemented solutions for both Online usage on the vehicle and for Autolabeling the large amounts of data gathered by the self-driving vehicles. Me and my team were positioned at the intersection of Engineering and Research forming a link between the Level 4 self-driving team, [Bosch Research] and academia.
+Klaris grew out of my time as an Entrepreneur in Residence at [Antler](https://www.antler.co/) (autumn cohort 2024, London), where I partnered with [Francesco Corazza](https://www.linkedin.com/in/francescocorazza), completed the incubator programme, and secured funding to start the company.
 
-Before moving to industry, I completed a PhD within the [ILCC] institute of the [School of Informatics] at the [University of Edinburgh] under the supervision of [Alex Lascarides] and [Subramanian Ramamoorthy].
+Previously, I was Lead Research Scientist at [Five AI](https://five.ai/) / [Bosch](https://www.bosch-mobility.com/en/) (to July 2024), leading Motion Planning and Prediction applied research for autonomous driving. My work spanned multi-agent interaction, robust planning, integrating prediction with planning, and later HD map reconstruction from sensor data — hybrid combinations of deep learning and classical methods in a safety-critical setting.
 
-### Research interests
+Before industry, I completed a PhD in the [ILCC] at the [School of Informatics], [University of Edinburgh], supervised by [Alex Lascarides] and [Subramanian Ramamoorthy].
+
+### Interests
+- *Generative AI*: Agentic systems, Retrieval-Augmented Generation, LLM applications
 - *Machine Learning*: (Multi-agent) Reinforcement Learning, Imitation Learning, Deep Learning, Bayesian Methods
-- Prediction, Planning and Decision Making
-- Computer Vision (Perception in AD)
+- Prediction, Planning and Decision Making; Computer Vision
 - Multi-agent Systems and Game Theory
+- Applications in MedTech regulatory compliance and Autonomous Driving
 
 ### Education
 - PhD Informatics. Low-resource learning in complex games, [School of Informatics], [University of Edinburgh],  2018
@@ -43,9 +46,8 @@ Before moving to industry, I completed a PhD within the [ILCC] institute of the 
 [Strategic Conversation (STAC)]: https://www.irit.fr/STAC/index.html
 [Amazon Alexa Challenge 2017]: https://developer.amazon.com/alexaprize/challenges/past-challenges/2017
 [Edina]: https://developer.amazon.com/alexaprize/challenges/past-challenges/2017/edina
-[FiveAI]: https://five.ai/
+[Five AI]: https://five.ai/
 [Bosch]: https://www.bosch-mobility.com/en/
-[Bosch Research]: https://www.bosch.com/research/
 [Antler]: https://www.antler.co/
 [Klaris]: https://www.klaris.ai/
 [Francesco Corazza]: https://www.linkedin.com/in/francescocorazza
